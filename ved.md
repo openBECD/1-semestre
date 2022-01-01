@@ -9,6 +9,7 @@ Informações sobre a disciplina Visualização e Exploração de Dados e conte�
 ## Conteúdos auxiliares 
 
 ### Livros
+- [Storopoli, Huijzer and Alonso (2021). Julia Data Science.](https://juliadatascience.io/)
 
 ### Playlists e Cursos
 
